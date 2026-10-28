@@ -1,6 +1,6 @@
 {
-    "title": "Haihuevents",
-    "description": "",
+    "title": "Receive Mythical Event Items (Platinum)",
+    "description": "Gives you the Secret Key, Member Card, Oak's Letter, and Azure Flute (and sets their associated event flags).",
     "author": "Stopper4",
     "supported": [
         "diamond",
@@ -17,7 +17,7 @@
             ],
             "language": "English",
             "variables": [],
-            "documentation": "",
+            "documentation": "Gives you the Secret Key, Member Card, Oak's Letter, and Azure Flute (and sets their associated event flags). Note that this will not *reset* the events and should not be used if you've already completed them.",
             "code": [
                 {
                     "type": "command",
